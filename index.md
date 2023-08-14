@@ -22,6 +22,9 @@ _________________
 
 ### Highlights
 
+##### _May, 2023_
+* Awarded the Chandruka Doctoral Fellowship from the CSE Department, Indian Institute of Technology (IITD), Delhi.
+
 ##### _August, 2022_
 * Started working towards my Doctor of Philosophy (PhD) at Indian Institute of Technology, Delhi.
 

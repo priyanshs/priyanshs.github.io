@@ -19,4 +19,4 @@ During my Masters I worked on detection of malicous OOXML documents using domain
 
 ## Peer Review
 
-I have been on occasion asked to review articles for [Journal of Computer Security by IOS Press](https://www.iospress.com/catalog/journals/journal-of-computer-security).
+I have been on occasion asked to review articles for [Computers & Security by Elsevier](https://www.sciencedirect.com/journal/computers-and-security) and [Journal of Computer Security by IOS Press](https://www.iospress.com/catalog/journals/journal-of-computer-security).

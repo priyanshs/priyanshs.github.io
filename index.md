@@ -21,6 +21,8 @@ If you are inclined you can find my complete curriculum vitae [<span style="colo
 _________________
 
 ### Highlights
+##### _January, 2023_
+* Awarded Outstanding Teaching Assistant for Semester I, 2023-24 from the CSE Department, Indian Institute of Technology (IITD), Delhi.
 
 ##### _May, 2023_
 * Awarded the Chandruka Doctoral Fellowship from the CSE Department, Indian Institute of Technology (IITD), Delhi.

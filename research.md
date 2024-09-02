@@ -4,8 +4,7 @@ title: Research and Publications
 permalink: /research/
 ---
 
-I am primarily interested in Systems Security and how it influences other fields. I'm currently exploring security in cellular networks and its various applications. 
-
+I am primarily interested in Systems Security and how it influences other fields. I'm currently exploring security in cellular networks and its various applications.
 
 ## Publications
 
@@ -13,9 +12,9 @@ Gupta, S., Singh, P., Shrotriya, N., & Baweja, T. (2021). LFSR Next Bit Predicti
 
 Singh, P., Tapaswi, S., & Gupta, S. (2020). Malware Detection in PDF and Office Documents: A survey. Information Security Journal: A Global Perspective, 29(3), 134-153.
 
-## Other Research 
+## Other Research
 
-During my Masters I worked on detection of malicous OOXML documents using domain specific features. You can find my thesis right [<span style="color: #6495ED ">here</span>](assets/files/Thesis2017IS17.pdf) and the corresponding presentation [<span style="color: #6495ED ">here</span>](assets/files/Presentation2017IS17.pdf).
+During my Masters I worked on detection of malicous OOXML documents using domain specific features. You can find my thesis right [<span style="color: #6495ED">here</span>](assets/files/Thesis2017IS17.pdf) and the corresponding presentation [<span style="color: #6495ED ">here</span>](assets/files/Presentation2017IS17.pdf).
 
 ## Peer Review
 

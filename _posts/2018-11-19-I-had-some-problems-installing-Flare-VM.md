@@ -31,4 +31,3 @@ Back to the topic, so after a day of googling and testing I gave up and decided,
     $env:chocolateyProxyLocation = 'https://local/proxy/server'
     $env:chocolateyProxyUser = 'username'
     $env:chocolateyProxyPassword = 'password'
-    

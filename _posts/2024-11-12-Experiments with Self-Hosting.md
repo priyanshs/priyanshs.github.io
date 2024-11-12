@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Experiments with Self Hosting"
+title:  "Experiments with Self-Hosting"
 date:   2024-11-12 19:39:05
 author: Priyansh Singh
-keywords: "self-hosting, proxmox, zotero, ollama, caddy, docker, lxc, vscode, cloudflare tunnel"
+keywords: "self-hosting, Proxmox, Zotero, Ollama, Caddy, Docker, LXC, VSCode, Cloudflare tunnel"
 ---
 
 

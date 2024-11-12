@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Experiments with Self Hosting"
+date:   2024-11-12 19:39:05
+author: Priyansh Singh
+keywords: "self-hosting, proxmox, zotero, ollama, caddy, docker, lxc, vscode, cloudflare tunnel"
+---
+
+
+Over the last few months, I have been getting more and more into self-hosting. This journey into running hypervisors and resource management started because we used a constrained Linux server with too many processes for one of our projects. Some of my colleagues would ping me on MS Teams, asking to kill processes because they could no longer get a remote connection to the machine. As we upgraded the machine, I decided to switch from a Linux server with user quotas to a [Proxmox VE](https://www.proxmox.com/en/) instance with VMs for each user and provisioning as required. 
+
+This started my journey down the path of experimenting with self-hosting services, and I am now running something of my own at home on a Lenovo G510 from 2013. I am incredibly wary of running random code on any of my machines. It might be a side-effect of working in security, but when you see instances where hundreds of thousands of devices were infected with crypto wallet stealing malware because a [traffic mod in Cities Skylines II was hacked](https://www.paradoxinteractive.com/games/cities-skylines-ii/news/traffic-breach-statement). So yeah, the experimentation has been slow and deliberate compared to my usual pace. But then two things happened: Github Copilot on my deployment environment started throwing network problems with the proxy, and my Zotero subscription storage limit was reached. 
+
+With the newfound capability of running and exposing services in a closed network, wouldn't it be fun to get code-auto-complete instantaneously? Could I move my Zotero storage to somewhere local? I like paying for Zotero, and the paid sync feature has made my life much easier. As I understand, they primarily support the business with this service. In fact, I have been a paying subscriber for the past 3-4 years. However, the jump from my current 20 GB plan to 60 GB was too steep for me as a student. Plus, I like the idea of having my data on my servers, even if it is sometimes a headache to maintain. 
+
+I have worked on the web for a while now, and the idea of hosting a web service locally seemed simple enough. So, I started with hosting a WebDAV server for Zotero syncing. While searching for how others have done this task, I came across two promising blogs:  https://blog.baksili.codes/zotero-webdav and https://halleysfifthinc.github.io/posts/zotero-webdav/. I knew I wanted to run my service in a container in my HomeLab. So I first looked into running an NGINX server as an LXC, but I decided against anything running directly on the host, even containerised. I decided to stick to running a dockerised version of the caddy build described by Allen and succeeded with it. 
+
+> At no point am I letting any of these services connect to the broader internet once they have been set up. I liked the idea of using a Cloudflare Tunnel to expose the services. However, I do not plan to keep auditing network traffic coming to these services for malicious actors. 
+
+The next was getting code-auto-complete to work, and believe it or not, if you are willing to trust one or two VS code extensions, deploying this is easy. One can simply use [Ollama](https://ollama.com) to download and run the models. Once you choose the models to run, you can simply pull from the hosted websites and make it available using `ollama serve`. I ended up using [Llama 3.1 8B](https://ollama.com/library/llama3.1) for the chat and [Codellama 13B](https://ollama.com/library/codellama) for auto-complete. I tried a bunch of these community plugins on VS Code, but I liked [Continue](https://www.continue.dev) the best.

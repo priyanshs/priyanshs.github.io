@@ -1,9 +1,11 @@
 # Priyansh's personal website
 
-> Thinkspace is just another minimalist Jekyll theme which designed for technical writing blog.
+Hi! I'm Priyansh. I'm a PhD candidate working in computer security.
 
-These thoughts are my own and do not represent…
+This is my personal website. You can visit it at [priyanshs.me](https://priyanshs.me). You can see some of my thoughts under /blog and materials I have created are under /teaching.
 
-## License
+## Attribution and License
 
-[MIT](LICENSE.md)
+I first came accorss this theme on [dhawaljoh](https://github.com/dhawaljoh/dhawaljoh.github.io) personal website.
+
+[MIT](LICENSE.md) as per the original author.

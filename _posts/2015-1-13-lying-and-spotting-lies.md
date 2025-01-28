@@ -5,6 +5,7 @@ date:   2015-1-13 14:02:05
 author: Priyansh Singh
 keywords: ""
 ---
+<meta name="fediverse:creator" content="@boardslayer@infosec.exchange">
 Lying comes as second nature to all of us. All of us are liars. And we often tell lies to slip out of a difficult situation or get into one. Some of us are compulsive liars whatever we say is a lie, and we need to check whether or not we are lying. On the other hand, there are people like me who have a fascination with how people function, display emotions and obviously LIE.
 
 Allison Kornet writes the following in the article&nbsp;“The truth about lying.”

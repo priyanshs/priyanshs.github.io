@@ -5,6 +5,7 @@ date:   2018-10-17 16:20:00
 author: Priyansh Singh
 keywords: ""
 ---
+<meta name="fediverse:creator" content="@boardslayer@infosec.exchange">
 I’ve always had a hard time relating with people around and the gap increased as time went on. Podcasts and talk radio before that were ways, I could interact without leaving my comfort zone. And if you spend more than 30 hours a week listening to other people and their ideas, it is bound to happen that you start fantasising about hosting one.
 
 Three years later, I find myself wanting more than just the not so challenging coursework of my master’s degree. I have plenty of time which in which I’m loitering around, and I think it’s probably time to look for something bigger. I ask my friends Hanniyah, Rishabh, and Sarvashreshth if they’d like to join me. There is a massive community of people who still listen to the radio even today, but sadly that doesn’t translate into a podcast audience. I pitched my idea to these three along with with the Fatreons, Orla Gartland’s online community. Sidebar: Orla is fantastic, and you should support her patreon. A podcast mashup of Do By Friday and the RoosterTeeth podcast. A lighthearted conversation show where we have fun intelligent discussions, have long conversations about our interests at the same time challenge each other to do one thing that was out of the ordinary for a week.

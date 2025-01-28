@@ -16,8 +16,7 @@ I am a third-year PhD candidate working under the guidance of [<span style="colo
 
 I've had the opportunity to work in the Internet-of-Things domain at the Indian Institute of Information Technology, Allahabad. Prior to that, I honed my teaching skills as an Assistant Professor at ABES Engineering College, Ghaziabad, for over two years. I earned my master's degree in Information Security from the Indian Institute of Information Technology, Gwalior, in 2019. My academic foundation was laid with a bachelor's degree in Computer Science and Engineering from [<span style="color: #6495ED">Guru Gobind Singh Indraprastha University, Delhi</span>](http://www.ipu.ac.in).
 
-You can find my complete curriculum vitae [<span style="color: #6495ED ">here</span>](assets/files/PriyanshSingh.pdf).  Reach out to me at <hi@priyanshs.me> or <priyansh@cse.iitd.ac.in>
-
+You can find my complete curriculum vitae [<span style="color: #6495ED ">here</span>](assets/files/PriyanshSingh.pdf).  Reach out to me at <hi@priyanshs.me> or <priyansh@cse.iitd.ac.in> or <a rel="me" href="https://infosec.exchange/@boardslayer">Mastodon</a>
 _________________
 
 ### Highlights
